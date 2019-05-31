@@ -1,10 +1,13 @@
 # Custom_Auth_User
 This is A Custom Auth User for Django 1.11, plus some essential extras. 
 
-This entails: 
+This entails:
+
         the Custom Auth User(models.py)
+        
         the necessary modified forms(forms.py)
-        the necessary modified Admin(admin.py).
+        
+        the necessary modified Admin(admin.py)
 
 Went through the Django Docs*, YouTube Tutorials** and Tutorials online*** to get what I think and feel are actually
 the complete and most advised way of implementing a Custom Auth User Model. I bet you couldn't guess which one was
@@ -22,6 +25,7 @@ source-ie-ness, especially when you're having trouble.
 
 
 Reference:
+
 * https://docs.djangoproject.com/en/1.11/topics/auth/
         Note: Trust me I went through all of it
         
