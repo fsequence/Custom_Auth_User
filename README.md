@@ -26,11 +26,14 @@ source-ie-ness, especially when you're having trouble.
 
 Reference:
 
-* https://docs.djangoproject.com/en/1.11/topics/auth/
+(*) https://docs.djangoproject.com/en/1.11/topics/auth/
+        
         Note: Trust me I went through all of it
         
 ** https://www.youtube.com/watch?v=mWNeTTDB3zQ&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj&index=11 
-        Note: This was the most useful one out of a few
+       
+       Note: This was the most useful one out of a few
         
 *** https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
+        
         Note: This was the most useful one out of a few
