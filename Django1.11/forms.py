@@ -1,3 +1,4 @@
+
 import unicodedata
 from django import forms
 from django.contrib.auth.forms import UserCreationForm, UserChangeForm
@@ -30,3 +31,4 @@ class CustomUserChangeForm(UserChangeForm):
         # deleted 'username' and put 'email' instead, that should be correct, :]
         field_classes = {'email': UsernameField}
 
+        
